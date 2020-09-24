@@ -30,3 +30,13 @@ section {
     font-weight: 900;
     text-transform: uppercase;
 }
+
+input {
+    border-color: red;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    
+}
